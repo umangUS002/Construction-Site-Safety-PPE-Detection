@@ -1,0 +1,21 @@
+# Dependencies & Builds
+node_modules/
+dist/
+build/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Environments
+.venv/
+venv/
+env/
+
+# IDE & System
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
